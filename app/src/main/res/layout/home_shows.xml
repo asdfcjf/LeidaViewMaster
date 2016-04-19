@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zdl.softinfo.com.leidaviewmaster.LeidaView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/leida"
+    android:background="@drawable/leida_bg">
+    
+
+</zdl.softinfo.com.leidaviewmaster.LeidaView>
